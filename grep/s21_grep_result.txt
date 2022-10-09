@@ -1,0 +1,32 @@
+a new
+what do
+a new
+what do
+hello
+my
+project
+
+i
+like
+you
+think
+
+think
+
+think?
+    
+
+a
+b
+
+cd
+2
+grep/Tests/common_text_test.txt
+3:a new
+9:what do
+a new
+what do
+a new
+what do
+w
+w
